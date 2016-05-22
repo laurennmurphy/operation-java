@@ -1,8 +1,10 @@
 # Operation Java
 
 ##[Project Euler](https://projecteuler.net/) is a mathematical/computer programming problem site
-##[Hacker Rank](hackerrank.com) for solve interesting and challenging programming problems
-###I'm currently solving all these problems in Java
+###I'm currently solving the problems in Java
 
-## My projects:
+##My Projects
+###This section also contains random projects I solved in java. Some of these projects I have also turned into android apps.
+
 ### Magic Eight Ball - February 2016
+### BMI Calculator - March 2016
